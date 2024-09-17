@@ -1,0 +1,14 @@
+
+/* Basic styling for the AI personal assistant MVP using Bootstrap classes */
+.container {
+  max-width: 800px;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+h1 {
+  color: #007bff;
+}
+
