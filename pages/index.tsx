@@ -1,7 +1,7 @@
 
 /*
  * AI-Powered Personal Assistant MVP
- * Copyright (c) 2024, Your Name
+ * Copyright (c) 2024, Jerry Tan
  * 
  * This is the main entry point of the front-end where user interaction happens. 
  * Bootstrap is used to enhance the UI, and OpenAI's API is integrated to process natural language input.
