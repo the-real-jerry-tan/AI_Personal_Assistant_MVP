@@ -1,4 +1,4 @@
-AI-Powered Chatbot
+# AI-Powered Chatbot
 
 An intelligent, AI-powered chatbot built using TypeScript. This chatbot leverages advanced natural language processing to interact with users in a conversational manner.
 Table of Contents
