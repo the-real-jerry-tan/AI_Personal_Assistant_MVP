@@ -1,7 +1,7 @@
 
 /*
  * AI-Powered Personal Assistant MVP
- * Copyright (c) 2024, Your Name
+ * Copyright (c) 2024, Jerry Tan
  * 
  * This is the API endpoint that handles requests to the OpenAI API. It takes the user's query 
  * and sends it to OpenAI's GPT model, returning the response.
